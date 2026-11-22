@@ -5,4 +5,4 @@
 - From: Flora w/ love （*゜ー゜*）
 <hr>
 
-<img src="https://file.garden/ZTeNOnlIhS-zrdb1/images/miffy.png">
+<img width="200" src="https://file.garden/ZTeNOnlIhS-zrdb1/images/miffy.png">
